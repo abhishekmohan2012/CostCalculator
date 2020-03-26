@@ -5,5 +5,5 @@ import com.engine.cycle.models.Cycle;
 import java.util.List;
 
 public interface OrderProcess {
-    public List<Integer> getAllPrice(List<Cycle> cycleList);
+    public void getAllPrice(List<Cycle> cycleList);
 }

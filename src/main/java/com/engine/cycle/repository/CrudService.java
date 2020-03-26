@@ -1,4 +1,4 @@
-package com.engine.cycle.Repository;
+package com.engine.cycle.repository;
 
 import com.engine.cycle.models.AbstractModel;
 import org.springframework.data.repository.CrudRepository;
